@@ -86,8 +86,8 @@ public class MovCamara : MonoBehaviour
         //float newX = Mathf.Clamp(targetPosition.x, minX, maxX);
         //float newY = Mathf.Clamp(targetPosition.y, minY, maxY);
 
-        float newX = Mathf.Clamp(targetPosition.x, -9, 9);
-        float newY = Mathf.Clamp(targetPosition.y, -4, 4);
+        float newX = Mathf.Clamp(targetPosition.x, -4, 4);
+        float newY = Mathf.Clamp(targetPosition.y, -2, 2);
 
         return new Vector3(newX, newY, targetPosition.z);
     }

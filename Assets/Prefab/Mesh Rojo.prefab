@@ -12,6 +12,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2918516480626709129, guid: cd30ee788fdc433419c6c966a083ba86, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1362665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918516480626709129, guid: cd30ee788fdc433419c6c966a083ba86, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1362665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918516480626709129, guid: cd30ee788fdc433419c6c966a083ba86, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1362665
+      objectReference: {fileID: 0}
+    - target: {fileID: 2918516480626709129, guid: cd30ee788fdc433419c6c966a083ba86, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
       objectReference: {fileID: 0}
@@ -57,7 +69,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 91a7213343f106d4ab79b23031bf7561, type: 2}
     - target: {fileID: 2918516480626709173, guid: cd30ee788fdc433419c6c966a083ba86, type: 3}
       propertyPath: m_Name
-      value: Mesh
+      value: Mesh Rojo
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd30ee788fdc433419c6c966a083ba86, type: 3}
